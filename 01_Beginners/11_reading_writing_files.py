@@ -55,7 +55,7 @@
 
 # Escrevendo
 
-with open('arquivo2.txt', 'w') as f: # use a (appand) caso nao queira perder dados
+with open('arquivo2.txt', 'w') as f: # use a (append) caso nao queira perder dados
     f.write('Hello World!!')
     # f.seek(0)
     # f.write('Z')
